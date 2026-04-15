@@ -6,6 +6,8 @@
 ![Groq](https://img.shields.io/badge/Groq-LPU-f55a3c.svg)
 ![Llama 3](https://img.shields.io/badge/Llama_3-70B-1877F2?style=flat)
 
+### 🔴 [Live Web Application: Try it here!](https://sarcasm-detection-ai.streamlit.app/)
+
 ---
 
 ## 📖 What is this?
