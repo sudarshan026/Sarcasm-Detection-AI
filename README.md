@@ -76,4 +76,3 @@ id,text
 Once uploaded, just click **Process Batch** and download your newly annotated file!
 
 ---
-*Created by an AI Engineer blending modern linguistics with extreme inference speed architecture.*
